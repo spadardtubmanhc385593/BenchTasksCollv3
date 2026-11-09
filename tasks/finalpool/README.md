@@ -16,7 +16,7 @@ For other task artifacts, the examples specify presence/non-emptiness and Englis
 
 The 44 pool tasks were selected by their existing Notion `implemented` status, not newly certified by a full historical re-audit. In particular, activity-logger and deal-manager were removed from the pool after this audit changed their statuses to `implementing`.
 
-The branch was created in `spadardtubmanhc385593/BenchTasksCollv3` because the authenticated account does not have direct write permission on `toolathlon/BenchTasksCollv3`. The accompanying upstream pull request proposes the same `finalpool` branch content upstream.
+The requested `finalpool` branch is available in `spadardtubmanhc385593/BenchTasksCollv3` because the authenticated account could not write directly to `toolathlon/BenchTasksCollv3`. An upstream pull request could not be created: GitHub rejected the head reference with a validation error. The upstream comparison is available at https://github.com/toolathlon/BenchTasksCollv3/compare/main...spadardtubmanhc385593:BenchTasksCollv3:finalpool; it is not an already-open pull request.
 
 ## Source paths
 
